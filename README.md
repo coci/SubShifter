@@ -32,23 +32,23 @@
 زمانی که می‌خوایم از اون به بعد زیرنویس جلو/عقب بره، [می‌تونیم ۰:۰:۰ رو وارد کنیم تا کل زیرنویس جا به جا بشه.]\
  </div>
 ```sh
-Specify start point of shift in HH:MM:SS format: 0:0:0
-00:00:00
+ Specify start point of shift in HH:MM:SS format: 0:0:0
+ 00:00:00
 ```
 
 <div dir="rtl" alighn="right">
 مقدار جا به جا شدن\
  </div>
 ```sh
-Specify shift time in HH:MM:SS format: 0:1:0
-00:01:00
+ Specify shift time in HH:MM:SS format: 0:1:0
+ 00:01:00
 ```
 <div dir="rtl" alighn="right">
 جهت جا به جایی رو به جلو یا عقب\
  </div>
 ```sh
-Delay - or + ? defult is - [-/+]: +
-delay: + -->
+ Delay - or + ? defult is - [-/+]: +
+ delay: + -->
 ```
 <div dir="rtl" alighn="right">
 در انتها یک جوانمرد پیدا بشه GUI براش بسازه و برنامه رو همه‌گانی/کابرپسند کنه.
